@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "country": "Colombia",
+    "roast": "Dark",
+    "vendor": "Parisi",
+    "variety": "",
+    "notes": ""
+  },
+  {
+    "id": 2,
+    "country": "Costa Rica",
+    "roast": "Medium",
+    "vendor": "Broadway",
+    "variety": "",
+    "notes": ""
+  },
+  {
+    "id": 3,
+    "country": "Colombia",
+    "roast": "Light",
+    "vendor": "Quay",
+    "variety": "",
+    "notes": ""
+  },
+  {
+    "id": 4,
+    "country": "Kenya",
+    "roast": "Light",
+    "vendor": "Parisi",
+    "variety": "Rioki",
+    "notes": "Sweet and brisk cup with red raspberry, milk chocolate, lime, caramel and a graham cracker finish. This bright cup is the perfect enhancement to your morning routine."
+  },
+  {
+    "id": 5,
+    "country": "Ethiopia",
+    "roast": "Dark",
+    "vendor": "Roasterie",
+    "variety": "Yirgacheffe",
+    "notes": ""
+  },
+  {
+    "id": 6,
+    "country": "Guatemala",
+    "roast": "Medium",
+    "vendor": "Roasterie",
+    "variety": "",
+    "notes": ""
+  },
+  {
+    "id": 7,
+    "country": "Mexico",
+    "roast": "Medium",
+    "vendor": "Broadway",
+    "variety": "",
+    "notes": ""
+  },
+  {
+    "id": 8,
+    "country": "Brazil",
+    "roast": "Light",
+    "vendor": "Parisi",
+    "variety": "",
+    "notes": ""
+  },
+  {
+    "id": 9,
+    "country": "Costa Rica",
+    "roast": "Dark",
+    "vendor": "Roasterie",
+    "variety": "",
+    "notes": ""
+  },
+  {
+    "id": 10,
+    "country": "Kenya",
+    "roast": "Dark",
+    "vendor": "Parisi",
+    "variety": "",
+    "notes": ""
+  }
+]

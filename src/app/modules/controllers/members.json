@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Alex",
+    "owed": 0
+  },
+  {
+    "name": "Nandhu",
+    "owed": 100
+  },
+  {
+    "name": "Rob",
+    "owed": 0
+  },
+  {
+    "name": "Omkar",
+    "owed": 15
+  },
+  {
+    "name": "Jeremy",
+    "owed": 0
+  },
+  {
+    "name": "Steve",
+    "owed": 0
+  }
+]
